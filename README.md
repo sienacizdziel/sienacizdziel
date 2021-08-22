@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sienacizdziel
 - 👀 I’m interested in software engineering for impact!
-- 🌱 I’m currently learning machine learning & financial analysis
+- 🌱 I’m currently learning object-oriented programming and machine learning techniques
 - 💞️ I’m collaborating on a nonprofit platform called PWR4 as CTO of PPE4ALL
 - 📫 How to reach me: siena.cizdziel@yale.edu
 
